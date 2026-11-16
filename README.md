@@ -65,3 +65,16 @@ Developed as part of the CodeAlpha Artificial Intelligence Internship.
 Author
 
 GitHub: sanjanakrishnapur-oss
+Screenshots
+
+AI FAQ Chatbot Interface
+
+"AI FAQ Chatbot Interface" (Screenshot%202026-11-16%20194926.png)
+
+Chatbot Response
+
+"Chatbot Response" (Screenshot%202026-11-16%20195111.png)
+
+
+
+
