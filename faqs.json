@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is artificial intelligence?",
+    "answer": "Artificial Intelligence (AI) is technology that enables machines to perform tasks that normally require human intelligence."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine Learning is a branch of AI that allows computers to learn from data and improve their performance."
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Python is a popular programming language used in web development, automation, data science, and AI."
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is a software application that interacts with users through text or voice."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "Natural Language Processing (NLP) helps computers understand, interpret, and process human language."
+  },
+  {
+    "question": "How can I learn programming?",
+    "answer": "Start with programming basics, practice coding daily, build small projects, and gradually learn advanced concepts."
+  },
+  {
+    "question": "What is data science?",
+    "answer": "Data science involves collecting, analyzing, and interpreting data to discover useful insights."
+  },
+  {
+    "question": "What is deep learning?",
+    "answer": "Deep learning is a type of machine learning that uses neural networks with multiple layers."
+  }
+]
